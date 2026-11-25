@@ -1,6 +1,6 @@
 # NoteSwap – Digital Notes Marketplace (Next.js)
 
-Run locally: `npm install` then `npm run dev` -> http://localhost:3000
+Run locally: `npm install` then `npm run dev` 
 
 Data is saved in `data/db.json` and uploaded files in `storage/` (created automatically).
 Deleting both resets the app to the 6 sample notes.
